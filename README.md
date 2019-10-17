@@ -1,1 +1,3 @@
-https://github.com/quwubin/MFEprimer-3.0/wiki
+See doc here: https://www.mfeprimer.com
+
+This site is only for distributing binary files.
